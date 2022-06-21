@@ -43,4 +43,8 @@ body {
   -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.8);
           box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.8);
 }
+
+.app .development p a {
+  color: white;
+}
 /*# sourceMappingURL=index.css.map */
